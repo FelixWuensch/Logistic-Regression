@@ -7,7 +7,7 @@ Um dieses Projekt zu starten, folgen Sie dem Binder Badge:      [![Binder](https
 
 !!! Alle Befehle werden ausgeführt in dem die Zeile ausgewählt wurde und anschließend mit Shift (Großschreibtaste) und Enter gestartet wird !!!
 
-1. Im ersten Schritt werden alle benötigten Libraries importiert, so dass im Folgenden alle Befehle erfolgreich Ausgeführt werden können.
+1. Im ersten Schritt müssen alle benötigten Libraries installiert und importiert, so dass im Folgenden alle Befehle erfolgreich Ausgeführt werden können.
 2. Danach werden unsere Daten im CSV Format eingelesen.
 3. Daraufhin werden die Daten erst einmal begutachtet. Zunächst die ersten fünf Zeilen des Datensatzes (.head()), dann die Datentypen des Datensatzes (.info()) und zu guter letzt noch einmal die ersten Statistiken der Daten (.describe()).
 4. Dann gehen wir über und untersuchen die Daten. Dazu erstellen wir zunächst ein Histogramm, welches die Altersverteilung in diesem Datensatz zeigt.
